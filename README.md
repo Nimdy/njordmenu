@@ -10,6 +10,7 @@ The overall object is to teach others through the power of gaming. I cannot thin
 
 Objectives I hope you will learn over time:
 
+```
 --Programming 
 ---Bash Shell scripting
 ---Python
@@ -33,7 +34,7 @@ Objectives I hope you will learn over time:
 ---Server Maintenance
 ---Dealing with ghosts in the machine
 ---Backup and recovery
-
+```
 
 
 --Coming Soon
