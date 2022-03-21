@@ -1,1 +1,1 @@
-area for docker game server scripts and containers
+area for docker game server scripts and container examples
