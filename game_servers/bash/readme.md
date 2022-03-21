@@ -1,1 +1,1 @@
-Area for bash related game server installs
+Area for bash related game server install examples
