@@ -1,4 +1,4 @@
-# njordmenu
+# Njord Menu
 Linux Gaming Servers Made Easy
 
 
